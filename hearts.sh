@@ -1,5 +1,5 @@
 #!/bin/bash
-source colors.sh
+source ~/.bash-pride-flags/colors.sh
 
 # Print cute heart
 HEART=(

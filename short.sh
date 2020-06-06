@@ -1,7 +1,7 @@
 #!/bin/bash
 # Super short banner
 
-source colors.sh
+source ~/.bash-pride-flags/colors.sh
 
 FLAG_RAINBOW=("${BLK}" "${BRN}" "${RED}" "${ORA}" "${YEL}" "${GRN}" "${BLU}" "${PUR}")
 FLAG_TRANS=("${LBL}" "${PNK}" "${WHT}" "${PNK}" "${LBL}")
